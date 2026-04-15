@@ -33,6 +33,7 @@ This project analyzes customer shopping behavior using data analytics techniques
    
 ## 📊 Dashboard
 Interactive Power BI dashboard created for better visualization and business understanding.
+
 PREVIEW:-<img width="1353" height="729" alt="image" src="https://github.com/user-attachments/assets/7b0a2a77-a1bc-4399-af28-b260fd18b2f9" />
 
 
